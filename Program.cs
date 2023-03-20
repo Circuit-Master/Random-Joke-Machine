@@ -117,7 +117,6 @@ namespace random_joke
 
 
                 // checks if user input is equal to yes
-
                 if (String.Equals("y", yorn) || String.Equals("Y", yorn))
                 {
                     Console.WriteLine($"{jokes[i]}");
